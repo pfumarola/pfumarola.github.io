@@ -4,4 +4,4 @@
 
 `IoT` `Arduino` `esp32` `raspberry Pi` `mqtt` `LoRa` `telegram` `bot` `NodeRED`
 
-Visit the blog [paolofumarola.it](https://paolofumarola.it).
+Visit the blog [www.paolofumarola.it](https://www.paolofumarola.it).
